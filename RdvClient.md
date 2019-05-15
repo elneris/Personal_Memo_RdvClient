@@ -1,12 +1,12 @@
 # Elneris Mémo RDV Client
 
-##Préambule
+## Préambule
 
 - Nom de la société et nom du projet si différent
 - Deadline pour présenter une proposition
 - Coordonnées du responsable du projet
 
-##I. Présentation du projet
+## I. Présentation du projet
 
 - A. Entreprise
 
@@ -19,7 +19,7 @@
     - Quels sont les points forts du site ou de vos produits / services ?
     - Comment comptez-vous attirer du trafic sur votre site internet ?
 
-##II.Marché
+## II.Marché
 - A. Cible
 
     - A qui s’adresse votre site internet ?
@@ -31,7 +31,7 @@
     - Quels sont les principales différences entre vos principaux concurrents et votre entreprise ?
     - Quels sont les concurrents qui ont déployé une stratégie web que vous jugez intéressante ? Pour quelles raisons ?
 
-##III. Identité graphique
+## III. Identité graphique
 
 Confier au prestataire la réalisation de votre charte graphique : logo, couleurs, police, etc.
 
@@ -50,7 +50,7 @@ Confier au prestataire la réalisation de votre charte graphique : logo, couleur
 
     - Quels sont vos sites de référence uniquement du point de vue esthétique ? Et d’un point de vue organisation des informations ?
 
-##IV. Description du site internet ( RDV suivant )
+## IV. Description du site internet ( RDV suivant )
 - A. Arborescence
 
     - Pour donner une vision globale du projet, fournir une arborescence des principales rubriques, sous rubriques et fonctionnalités. Vous pouvez utiliser plusieurs couleurs pour différencier par exemple les pages simples des « modules », des ensembles de pages qui seront décrits séparément.
@@ -63,7 +63,7 @@ Confier au prestataire la réalisation de votre charte graphique : logo, couleur
 
     - Pour chaque « module », ou fonctionnalité spécifique, il faut décrire le fonctionnement général, en se plaçant uniquement du côté de l’utilisateur.
 
-##V. Cadre de la mission
+## V. Cadre de la mission
 - A. Objectifs / Périmètre
 
     - Quel est le périmètre de la prestation envisagée ? (accompagnement définition besoin, développement du site, promotion du site internet, etc. ?)
@@ -75,7 +75,7 @@ Confier au prestataire la réalisation de votre charte graphique : logo, couleur
     - Avez-vous des souhaits particuliers en termes de mode d’échange et de suivi du projet ?
     - Quels sont les éléments qui lui seront fournis et à quel moment ? (images, textes, vidéos, etc.)
 
-##Conclusion
+## Conclusion
 
 - Faire un récap
 - Fixer un prochain rdv
